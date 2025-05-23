@@ -1,16 +1,30 @@
-# weather_app_demo
+# 🌤️ Weather App Demo
 
-A new Flutter project.
+A simple and elegant weather app built with **Flutter**. This demo showcases how to use device **geolocation**, fetch **real-time weather data** from an API, and display it in a user-friendly interface with Flutter widgets.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🌍 Get current location and weather
+- ☀️ Display temperature, conditions, and city name
+- 🧭 Use of device GPS and permissions
+- 🧪 Clean and modular Flutter code
+- 📱 Responsive UI for different screen sizes
 
-A few resources to get you started if this is your first Flutter project:
+## 📷 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+*(Add screenshots here if available)*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Flutter**
+- **Dart**
+- **Geolocator** for GPS
+- **HTTP** for API calls
+- **OpenWeatherMap API** *(or your weather API of choice)*
+
+## 📦 Getting Started
+
+1. **Clone the repo:**
+   ```bash
+   git clone https://github.com/your-username/weather_app_demo.git
+   cd weather_app_demo
